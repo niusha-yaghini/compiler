@@ -1,0 +1,7 @@
+ID Name Type Value
+1 a Integer 4
+2 b Integer 6
+3 c String "sib"
+4 d String "sibbbb"
+5 e Integer 12
+6 t Integer 22
